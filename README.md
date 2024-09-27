@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndersonSantos12
 - 👀 I’m interested in TI, Psychology, books;
-- 🌱 I’m currently learning JavaScript and Kotlin;
+- 🌱 I’m currently learning JavaScript and Java;
 - 💞️ I’m looking to collaborate on websites and software devolopment;
 - 📫 How to reach me ...
 - 😄 Pronouns: He/him;
