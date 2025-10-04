@@ -1,47 +1,86 @@
-# 👋 Olá, sou Anderson Santos!
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px">
+</div>
 
-Sou estudante de Tecnologia da Informação e psicologia apaixonado por aprendizado contínuo. Atualmente moro em Alagoas, Brasil, e estou expandindo meus conhecimentos em **JavaScript** e **Java**. Procuro colaborar em projetos de desenvolvimento web e software, combinando minha formação em TI e interesse em psicologia para construir soluções centradas nas pessoas.
+# 👋 Olá, eu sou o Anderson dos Santos  
 
-## 🚀 Principais habilidades
-
-- **Linguagens:** JavaScript (ECMAScript), Java, HTML, CSS
-- **Ferramentas & Frameworks:** Node.js, React, Git/GitHub
-- **Interesses:** Desenvolvimento full‑stack, psicologia aplicada à experiência do usuário (UX), leitura, música e projetos open‑source
-
-## 📂 Projetos em destaque
-
-- [TODO: Nome do Projeto 1](#) – descreva aqui brevemente o que ele faz ou o que aprendeu
-- [TODO: Nome do Projeto 2](#) – descreva aqui brevemente o que ele faz ou o que aprendeu
-
-*Para valorizar seu perfil, fixe no topo os repositórios mais relevantes e forneça um README completo para cada um.*
-
-## 📨 Como me encontrar
-
-- **E‑mail:** seu-email@example.com
-- **LinkedIn:** [Seu perfil no LinkedIn](#)
-- **Redes sociais:** [@SeuUsuario](#)
+🎓 Estudante de **Engenharia de Software** e **Letras - Inglês** pela UNINTER  
+💻 Apaixonado por **desenvolvimento de software**, **educação** e **tecnologia aplicada** à realidade escolar  
+📚 Atualmente conciliando estudos com projetos práticos em **.NET (C#)**, **React + TypeScript**, **Node.js**, **Firebase**, **Supabase** e **Android (Java/Kotlin)**  
+🔒 Também estudando **Cibersegurança** (com foco em segurança ofensiva)  
 
 ---
 
-# 👋 Hi, I'm Anderson Santos!
+## 🚀 Projetos em Destaque
 
-I'm an Information Technology and psychology student with a passion for continuous learning. Currently based in Alagoas, Brazil, I'm expanding my skills in **JavaScript** and **Java**. I'm looking to collaborate on web and software projects, combining my IT background and interest in psychology to build user‑centered solutions.
+- 📌 **Gestor Escolar (Extensão Chrome + Android)**  
+  Automatização de registros escolares (SIGEC), com integração a calendário letivo, localStorage e Firestore.
 
-## 🚀 Key skills
+- 📌 **Prova Maker**  
+  Sistema de geração de provas com QR Code em gabaritos, leitura automática via OpenCV.js e dashboard de desempenho.
 
-- **Languages:** JavaScript (ECMAScript), Java, HTML, CSS
-- **Tools & Frameworks:** Node.js, React, Git/GitHub
-- **Interests:** Full‑stack development, psychology applied to user experience (UX), reading, music and open‑source projects
+- 📌 **Controle de Gastos Residenciais**  
+  API em .NET C# com front-end em React + TypeScript para gerenciar despesas familiares.
 
-## 📂 Featured projects
+- 📌 **Hostel Management**  
+  Sistema de hospedagem com cadastro de hóspedes, reservas, cálculo de diárias e dashboard de finanças.
 
-- [TODO: Project 1](#) – briefly describe what it does or what you learned
-- [TODO: Project 2](#) – briefly describe what it does or what you learned
+- 📌 **JuriApp**  
+  Aplicativo para competições com votação de jurados, categorias dinâmicas e ranking em tempo real.
 
-*To enhance your profile, pin your most relevant repositories and provide a complete README for each.*
+---
 
-## 📨 Get in touch
+## 🛠️ Tecnologias & Ferramentas
 
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn profile](#)
-- **Social media:** [@YourUser](#)
+### 🔹 Linguagens & Frameworks
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### 🔹 Banco de Dados & Cloud
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### 🔹 Outros
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndersonSantos12&show_icons=true&theme=tokyonight&hide_border=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonSantos12&layout=compact&theme=tokyonight&hide_border=true)  
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=AndersonSantos12&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Objetivos Atuais
+
+- Finalizar MVPs de sistemas educacionais e de gestão  
+- Aprimorar conhecimentos em **cibersegurança ofensiva**  
+- Contribuir com projetos **open source** e compartilhar aprendizados  
+
+---
+
+## 🌍 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/anderson-santos-sf/)  
+- 📝 [Portfólio](#) *(em construção)*  
+- 📫 **E-mail:** *(adicione aqui seu e-mail profissional)*  
+
+---
+
+✨ *“Aprender, criar e compartilhar conhecimento é o que me move.”*  
