@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Engenharia de Software** e **Letras - Inglês** pela UNINTER  
 💻 Apaixonado por **desenvolvimento de software**, **educação** e **tecnologia aplicada** à realidade escolar  
-📚 Atualmente conciliando estudos com projetos práticos em **.NET (C#)**, **React + TypeScript**, **Node.js**, **Firebase**, **Supabase** e **Android (Java/Kotlin)**  
+📚 Atualmente conciliando estudos com projetos práticos em **React + TypeScript**, **Node.js**, **Firebase**, **Supabase** e **Android (Java/Kotlin)**  
 🔒 Também estudando **Cibersegurança** (com foco em segurança ofensiva)  
 
 ---
@@ -34,7 +34,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+
 
 ### 🔹 Banco de Dados & Cloud
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
